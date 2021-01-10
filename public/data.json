@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "product_name": "Product A",
+        "product_description": "Lorum ipsum",
+        "is_active": true,
+        "price": "44",
+        "offer_price": "34",
+        "offer_start_at": "January 11, 2021 0:49:42",
+        "offer_end_at": "January 11, 2021 0:49:42",
+        "created_at": "January 11, 2021 0:49:42",
+        "updated_at": "January 11, 2021 0:49:42"
+    },
+    {
+        "id": 2,
+        "product_name": "Product B",
+        "product_description": "Lorum ipsum",
+        "is_active": true,
+        "price": "44",
+        "offer_price": "34",
+        "offer_start_at": "January 11, 2021 0:49:42",
+        "offer_end_at": "January 11, 2021 0:49:42",
+        "created_at": "January 11, 2021 0:49:42",
+        "updated_at": "January 11, 2021 0:49:42"
+    }
+]

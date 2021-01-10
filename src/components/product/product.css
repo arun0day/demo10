@@ -1,0 +1,14 @@
+.root {
+    display: flex;
+    flex-direction: row;
+}
+
+.productlist {
+    padding: 30px;
+    width: 75%;
+}
+
+.editform {
+    padding: 30px;
+    width: 25%;
+}
